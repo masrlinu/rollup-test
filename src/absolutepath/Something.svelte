@@ -1,8 +1,6 @@
 <script context="module">
-  export let variable = 0;
-</script>
-<script>
-  export const add = ()=>{
+  let variable = 0;
+  export let add = ()=>{
     variable +=1;
     return variable;
   }
