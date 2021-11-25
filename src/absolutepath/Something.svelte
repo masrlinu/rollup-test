@@ -6,4 +6,4 @@
   }
 </script>
 
-<div>same variable:{variable}!</div><br>
+<div>same variable:{variable}!</div>
